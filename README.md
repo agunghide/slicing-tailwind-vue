@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Watch Tailwind CSS
+```
+npm run watch:css
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
